@@ -20,7 +20,6 @@ import KshitizGaur from '/src/assets/KshitizGaur.jpg'
 import menuicon from '/src/assets/menuicon.png'
 import closeicon from '/src/assets/closeicon.png'
 import logoEn from '/src/assets/logoEn.png'
-
 export const assets = {
 
     LogoEnactus,
