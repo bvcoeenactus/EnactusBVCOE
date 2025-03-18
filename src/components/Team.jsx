@@ -40,7 +40,7 @@ const Team = () => {
               src={assets.AonushaSaigal}
               alt=""
             />
-            <div className="text-3xl m-0  mt-2 mb-2` font-extrabold">
+            <div className="text-[28px] mt-2 mb-2` font-extrabold">
               AONUSHA SAIGAL
             </div>
 
