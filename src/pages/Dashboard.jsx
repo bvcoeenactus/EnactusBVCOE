@@ -19,11 +19,14 @@ const Dashoard = () => {
       <div id="projects">
         <Projects />
       </div>
-      <div id="events">
-        <Events />
+      <div id="faculty">
+        <Faculty />
       </div>
       <div id="team">
         <Team />
+      </div>
+      <div id="events">
+        <Events />
       </div>
     </div>
   );
