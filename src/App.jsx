@@ -8,6 +8,7 @@ import Projects from "./components/Projects";
 import Events from "./components/Events";
 import Team from "./components/Team";
 import Footer from "./components/Footer";
+import Faculty from "./components/Faculty";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
         <Route path="/projects" element={<Projects />} />
         <Route path="/events" element={<Events />} />
         <Route path="/team" element={<Team />} />
+        <Route path="/faculty" element={<Faculty />} />
       </Routes>
       <Footer />
     </div>
