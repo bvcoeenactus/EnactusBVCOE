@@ -10,7 +10,7 @@ const Faculty = () => {
         </p>
       </div>
       <div className="flex flex-col md:flex-row p-10 justify-around items-center bg-gray-700">
-        <div className="bg-gray-700 w-[60%] pb-10 md:pb-0 md:w-[30%] rounded-full">
+        <div className="bg-gray-700 w-[80%] pb-10 md:pb-0 md:w-[30%] rounded-full">
           <img
             className="rounded-full  shadow-[0_0_20px_5px_rgba(255,255,100,0.6)]"
             src={assets.ArunSir}
