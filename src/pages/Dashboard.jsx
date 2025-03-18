@@ -4,7 +4,7 @@ import About from "../components/About";
 import Projects from "../components/Projects";
 import Events from "../components/Events";
 import Team from "../components/Team";
-
+import Faculty from "../components/Faculty";
 
 const Dashoard = () => {
   return (
@@ -19,6 +19,7 @@ const Dashoard = () => {
       <div id="projects">
         <Projects />
       </div>
+
       <div id="faculty">
         <Faculty />
       </div>
