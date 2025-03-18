@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss()
   ],
-  base:"./",
+  base: "/EnactusBVCOE/",
   assetsInclude: ["**/*.JPG", "**/*.jpg", "**/*.png"],
 })
