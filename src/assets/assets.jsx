@@ -20,6 +20,9 @@ import KshitizGaur from '/src/assets/KshitizGaur.JPG'
 import menuicon from '/src/assets/menuicon.png'
 import closeicon from '/src/assets/closeicon.png'
 import logoEn from '/src/assets/logoEn.png'
+import ArunSir from '/src/assets/ArunSir.jpg'
+
+
 export const assets = {
 
     LogoEnactus,
@@ -40,5 +43,6 @@ export const assets = {
     ShellyGarg,
     AonushaSaigal, KshitizGaur, menuicon,
     closeicon,
-    logoEn
+    logoEn,
+    ArunSir
 }
